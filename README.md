@@ -15,7 +15,7 @@ config files whatever is required for our application to run.
 
 Create docker image using Dockerfile
 ```docker
-docker build -t mylandmarktech/springapp .
+docker build -t <dockerhub directory name>/springapp .
 ```
 ## Deploy Application Using Docker Compose
 ```docker-compose
